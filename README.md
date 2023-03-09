@@ -1,5 +1,7 @@
 # Venture Funding
 
+Use the given dataset to create a binary classifier model that will predict whether an applicant will become a successful business.
+
 Prepared data.   
 Used Tensorflow's Keras to create deep neural network.  
 Compiled/fit model using binary_crossentropy loss function, adam optimizer and used the accuracy evaluation metric.  
